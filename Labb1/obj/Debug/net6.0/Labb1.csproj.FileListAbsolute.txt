@@ -1,0 +1,14 @@
+C:\Users\biboa_jwg3mq9\Documents\Visual Studio 2022\Labb1\Labb1\obj\Debug\net6.0\Labb1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biboa_jwg3mq9\Documents\Visual Studio 2022\Labb1\Labb1\obj\Debug\net6.0\Labb1.AssemblyInfoInputs.cache
+C:\Users\biboa_jwg3mq9\Documents\Visual Studio 2022\Labb1\Labb1\obj\Debug\net6.0\Labb1.AssemblyInfo.cs
+C:\Users\biboa_jwg3mq9\Documents\Visual Studio 2022\Labb1\Labb1\obj\Debug\net6.0\Labb1.csproj.CoreCompileInputs.cache
+C:\Users\biboa_jwg3mq9\Documents\Visual Studio 2022\Labb1\Labb1\bin\Debug\net6.0\Labb1.exe
+C:\Users\biboa_jwg3mq9\Documents\Visual Studio 2022\Labb1\Labb1\bin\Debug\net6.0\Labb1.deps.json
+C:\Users\biboa_jwg3mq9\Documents\Visual Studio 2022\Labb1\Labb1\bin\Debug\net6.0\Labb1.runtimeconfig.json
+C:\Users\biboa_jwg3mq9\Documents\Visual Studio 2022\Labb1\Labb1\bin\Debug\net6.0\Labb1.dll
+C:\Users\biboa_jwg3mq9\Documents\Visual Studio 2022\Labb1\Labb1\bin\Debug\net6.0\Labb1.pdb
+C:\Users\biboa_jwg3mq9\Documents\Visual Studio 2022\Labb1\Labb1\obj\Debug\net6.0\Labb1.dll
+C:\Users\biboa_jwg3mq9\Documents\Visual Studio 2022\Labb1\Labb1\obj\Debug\net6.0\refint\Labb1.dll
+C:\Users\biboa_jwg3mq9\Documents\Visual Studio 2022\Labb1\Labb1\obj\Debug\net6.0\Labb1.pdb
+C:\Users\biboa_jwg3mq9\Documents\Visual Studio 2022\Labb1\Labb1\obj\Debug\net6.0\Labb1.genruntimeconfig.cache
+C:\Users\biboa_jwg3mq9\Documents\Visual Studio 2022\Labb1\Labb1\obj\Debug\net6.0\ref\Labb1.dll
